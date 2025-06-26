@@ -4,8 +4,8 @@
   "identity_thresholds": [0.6],
   "consensus_threshold": 0.4,
   "contact_cutoff": 5.0,
-  "target_categories": ["Peptide", "Nucleotide", "Amine"],
-  "exclusion_ligands": ["HOH", "DOD", "SO4", "NA", "CL", "K", "MG", "CA", "ZN", "MN", "CU", "FE", "GDP", "TAR","STE", "LMT", "PEG", "EDT", "EDO", "TRS", "GOL"],
+  "target_categories": ["Peptide", "Nucleotide", "Amine", "Sucre", "Aromatique"],
+  "exclusion_ligands": [],
   "output_directory": "results_a2a",
   "label_threshold" : 90,
   "ligand_metadata_file": "structure_ligand_principal_corrected_final.csv"
