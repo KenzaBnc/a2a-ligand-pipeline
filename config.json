@@ -9,7 +9,8 @@
   "exclusion_ligands": ["HOH", "DOD", "SO4", "NA", "CL", "MG", "CA", "PEG", "GOL"],
   "output_directory": "results_a2a",
   "label_threshold" : 90,
-  "ligand_metadata_file": "structure_ligand_principal_corrected_final.csv"
+  "ligand_metadata_file": "structure_ligand_principal_corrected_final.csv",
+  "generate_global_superposition": true
 }
 
 
