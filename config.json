@@ -10,7 +10,7 @@
   "output_directory": "results_a2a",
   "label_threshold" : 90,
   "ligand_metadata_file": "structure_ligand_principal_corrected_final.csv",
-  "generate_global_superposition": true
+  "generate_global_superposition": true,
   "use_uniprot_sequence": true,
   "receptor_uniprot_id": "P29274"
 }
