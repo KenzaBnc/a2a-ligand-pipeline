@@ -12,7 +12,7 @@
   "ligand_metadata_file": "structure_ligand_principal_corrected_final.csv",
   "generate_global_superposition": true,
   "use_uniprot_sequence": false,
-  "receptor_uniprot_id": "P29274",
+  "receptor_uniprot_id": "",
   "auto_select_threshold": true,
   "whitelist_pdb_ids": []
 }
