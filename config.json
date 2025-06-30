@@ -13,7 +13,7 @@
   "generate_global_superposition": true,
   "use_uniprot_sequence": true,
   "receptor_uniprot_id": "P29274",
-  "auto_select_threshold": true
+  "auto_select_threshold": true,
   "whitelist_pdb_ids": ["7RM5", "5UVI", "6MH8", "7T32"]
 }
 
