@@ -14,6 +14,6 @@
   "use_uniprot_sequence": false,
   "receptor_uniprot_id": "",
   "auto_select_threshold": true,
-  "whitelist_pdb_ids": []
+  "whitelist_pdb_ids": [],
   "pdb_dir": "pdb_files"
 }
