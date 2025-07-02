@@ -15,5 +15,8 @@
   "receptor_uniprot_id": "",
   "auto_select_threshold": true,
   "whitelist_pdb_ids": [],
-  "pdb_dir": "pdb_files"
+  "pdb_dir": "pdb_files", 
+  "classify_ligands_automatically": true,
+  "group_classes": true,
+  "pubchem_group_threshold": 5
 }
