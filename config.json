@@ -19,6 +19,6 @@
   "pdb_dir": "pdb_files", 
   "classify_ligands_automatically": true,
   "group_classes": true,
-  "classyfire_category_level": "Class",
+  "classyfire_category_level": "Superclass",
   "pubchem_group_threshold": 5
 }
